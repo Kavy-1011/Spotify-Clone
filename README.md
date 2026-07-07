@@ -1,6 +1,6 @@
 🎵 Spotify Clone (Frontend)
 
-A frontend-only Spotify Clone built using HTML, CSS, and JavaScript. This project recreates the look and feel of Spotify's web player for learning UI development and responsive web design.
+A frontend-only Spotify Clone built using HTML and CSS. This project recreates the look and feel of Spotify's web player for learning UI development and responsive web design.
 
  ✨ Features
 
@@ -16,7 +16,6 @@ A frontend-only Spotify Clone built using HTML, CSS, and JavaScript. This projec
 
 - HTML5
 - CSS3
-- JavaScript
 
  Purpose
 
@@ -25,7 +24,7 @@ The goal of this project was to practice:
 - HTML Structure
 - CSS Flexbox & Grid
 - Responsive Web Design
-- Basic JavaScript
+
 
 
   
